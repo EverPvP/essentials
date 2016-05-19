@@ -1,2 +1,2 @@
 # essentials
-Essentilas messages
+Essentials messages
